@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Kris
+- 👋 Hi, I’m @Kris, I'm a SAP Sales and Distribution consultant, my goal is to upskill and learn more about programming
 - 👀 I’m interested in Digital arts, Caricatures, Manga, Series, Music and Movies
-- 🌱 I’m currently learning S4Hana, Phyton, Java
+- 🌱 I’m currently learning S4Hana, Python, Java
 - 💞️ I’m looking to collaborate on coding
 - 📫 How to reach me linkedin [Kris Alquiza](https://www.linkedin.com/in/kris-anne-alquiza-39a051a7/)
 
